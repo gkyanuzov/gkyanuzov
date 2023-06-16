@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gkyanuzov
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, SQL, Data Science
 - 🌱 I’m currently learning Django Framework
 - 📫 How to reach me gkyanuzov@gmail.com
 
